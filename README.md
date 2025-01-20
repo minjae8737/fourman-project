@@ -52,20 +52,28 @@
 ## 동작 화면
 - 로그인
 <img width="1901" alt="Image" src="https://github.com/user-attachments/assets/6c3564b0-7f78-4130-ae34-84e40433e055" />
+
 - 회원가입
 <img width="1900" alt="Image" src="https://github.com/user-attachments/assets/0defed9d-6f4f-4cd6-94f0-03a46996cb3b" />
+
 - 메인 페이지
 <img width="1887" alt="Image" src="https://github.com/user-attachments/assets/a94ffe9d-45ce-45d1-b1c3-0679248add10" />
+
 - 트래픽 테스트 설정
 <img width="1901" alt="Image" src="https://github.com/user-attachments/assets/8af538bb-f40c-4520-bf34-f25403b048f7" />
+
 - 트래픽 테스트 결과
 <img width="1901" alt="Image" src="https://github.com/user-attachments/assets/f5158f3c-7869-4ee9-b35a-43495f1966a7" />
+
 - 게시글 메인
 <img width="1892" alt="Image" src="https://github.com/user-attachments/assets/a620d489-234e-469c-82c7-2afc1502f768" />
+
 - 게시글 작성
 <img width="1903" alt="Image" src="https://github.com/user-attachments/assets/a18a09b8-426c-46c6-a634-ec4b84025f51" />
+
 - 게시글 상세
 <img width="1890" alt="Image" src="https://github.com/user-attachments/assets/4bafa3df-e1f0-462a-8cdc-9ebdfd48f7fc" />
+
 
 <br>
 
